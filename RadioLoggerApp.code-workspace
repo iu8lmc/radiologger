@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Downloads/precision-analog-clock-master/precision-analog-clock-master/assets"
+		},
+		{
+			"path": "../Downloads/precision-analog-clock-master/precision-analog-clock-master/clock"
+		},
+		{
+			"path": "../Downloads/precision-analog-clock-master/precision-analog-clock-master/demo"
+		}
+	],
+	"settings": {}
+}
